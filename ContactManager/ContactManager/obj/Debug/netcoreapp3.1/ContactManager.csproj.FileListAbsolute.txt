@@ -11,7 +11,6 @@ D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManage
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.TagHelpers.output.cache
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.RazorCoreGenerate.cache
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -168,8 +167,9 @@ D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManage
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.csproj.CoreCompileInputs.cache
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\ContactManager.MvcApplicationPartsAssemblyInfo.cache
+D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
 D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
-D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Studies\Myself\Programing\GitHub\Contact_Manager\ContactManager\ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
